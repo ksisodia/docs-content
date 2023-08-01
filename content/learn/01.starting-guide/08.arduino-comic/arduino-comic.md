@@ -19,6 +19,15 @@ The Arduino Comic was created by Jody Culkin and published during 2011. You can 
 * Remember to add your name and contact information, we like to give credit to those that contributed, besides people might want to contact you with questions
 
 ## Translations
+**DEVANAGARI /देवनागरी *
+
+- **Translated by:** Kaushlendra Singh Sisodia
+- **Email/url:** kaushlendra.sisodia@gmail.com
+- [Devanagari PDF Version देवनागरी संस्करण](https://www.theiotacademy.co/arduinocomic/arduino_comic_DevNagri_Hindi.pdf)]
+
+Work files:
+- [Devanagari work files]
+
 
 **ARABIC /عربي**
 
